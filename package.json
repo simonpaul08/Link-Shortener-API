@@ -1,0 +1,24 @@
+{
+  "name": "link-shortener-api",
+  "version": "1.0.0",
+  "description": "Link Shortener API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Simon Paul",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.2.0",
+    "nanoid": "^5.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
