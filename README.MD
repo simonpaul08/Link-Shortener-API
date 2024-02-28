@@ -9,7 +9,7 @@ npm install
 ```
 
 # Environment Variables 
-Create a `$.env` file in the root and declare the following variables with appropritae values
+Create a `.env` file in the root and declare the following variables with appropritae values
 
 ```bash
 PORT
