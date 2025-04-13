@@ -1,5 +1,5 @@
 # Link Shortener API
-An attempt to make a "Link Shortener API" in Node JS
+A simple yet effective Link Shortener API built using Node.js. It includes features such as unique short code generation, redirection handling, and basic link storage. Perfect for exploring the backend mechanics of modern link shortening platforms.
 
 # Installation
 Clone the repo and install the dependencies using the following command:
